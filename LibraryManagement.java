@@ -146,7 +146,7 @@ class Library {
 
     public void listBooks() {
         if (books.isEmpty()) {
-            System.out.println("No books are available in the library.");
+            System.out.println("No books are available.");
             return;
         }
         for (int i = 0; i < books.size(); i++) {
