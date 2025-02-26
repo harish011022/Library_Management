@@ -1,0 +1,10 @@
+Inferno,Dan Brown,Thriller,false,None
+The Catcher in the Rye,J.D. Salinger,Fiction,false,None
+Brave New World,Aldous Huxley,Dystopian,false,None
+The Hobbit,J.R.R. Tolkien,Fantasy,false,None
+Crime and Punishment,Fyodor Dostoevsky,Philosophical Fiction,false,None
+The Road,Cormac McCarthy,Post-Apocalyptic,false,None
+Moby-Dick,Herman Melville,Adventure,false,None
+One Hundred Years of Solitude,Gabriel Garcia Marquez,Magical Realism,true,Harish
+Frankenstein,Mary Shelley,Horror,false,None
+Meditations,Marcus Aurelius,Philosophy,false,None
